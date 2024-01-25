@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\Projeto1\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\ScreenSound\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\Projeto1\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\ScreenSound\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\Projeto1\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\ScreenSound\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\Projeto1\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\ScreenSound\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\Projeto1\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+        "outputPath": "D:\\gui_c\\Cursos\\Cursos_Back-end\\2024C#\\ScreenSound\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
